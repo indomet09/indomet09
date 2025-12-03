@@ -1,7 +1,3 @@
- <!-- ENCABEZADO COMPACTO -->
-<div align="center">
-  <!-- Ajusté el width a 550px para reducir el espacio vertical vacío de la imagen original -->
-
   <p>
     <a href="https://indomet.gob.do/">
       <img src="https://img.shields.io/badge/Sitio_Web-INDOMET.gob.do-005EB8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
@@ -65,6 +61,17 @@ Utilizamos herramientas robustas para garantizar precisión y velocidad en situa
 
 ---
 
+## 🚀 Proyectos Clave
+
+A continuación, una lista de nuestros repositorios públicos más relevantes.
+
+| Repositorio | Tipo | Estado | Descripción |
+| :--- | :---: | :---: | :--- |
+| **`INDOMET-Web-App`** | 🌐 Web | ![Active](https://img.shields.io/badge/Activo-brightgreen?style=flat-square) | Portal principal de visualización de datos climáticos. |
+| **`INDOMET-API-Core`** | 📡 Backend | ![Beta](https://img.shields.io/badge/Beta-orange?style=flat-square) | API RESTful para consumo de estaciones meteorológicas. |
+| **`INDOMET-Reportes`** | 📄 Utils | ![Stable](https://img.shields.io/badge/Estable-blue?style=flat-square) | Generador automático de boletines PDF oficiales. |
+
+> *Para acceder al código, navega a la lista de repositorios de la organización.*
 
 ---
 
@@ -92,12 +99,11 @@ Si encuentras un error en nuestros datos o aplicaciones, por favor abre un **Iss
 
 <div align="center">
   <br>
-  <!-- CORREGIDO: La codificación de República Dominicana ahora es correcta en la URL -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3572A5&center=true&vCenter=true&width=435&lines=Ciencia+al+servicio+de+la+naci%C3%B3n. alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3572A5&center=true&vCenter=true&width=435&lines=CIENCIA+EN+LA+REP%C3%9ABLICA+DOMINICANA" alt="Typing SVG" />
   
   <br>
   
-
+  <sub>© 2025 Instituto Dominicano de Meteorología (INDOMET). Todos los derechos reservados.</sub>
   <br>
   <img src="https://img.shields.io/badge/Hecho%20con%20%E2%9D%A4%EF%B8%8F%20en-RD-CE1126?style=flat-square">
 </div>
