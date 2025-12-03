@@ -93,7 +93,7 @@ Si encuentras un error en nuestros datos o aplicaciones, por favor abre un **Iss
 <div align="center">
   <br>
   <!-- CORREGIDO: La codificación de República Dominicana ahora es correcta en la URL -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3572A5&center=true&vCenter=true&width=435&lines=Ciencia+al+servicio+de+la+naci%C3%B3n.;Desarrollado+en+Rep%C3%fablica+Dominicana." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3572A5&center=true&vCenter=true&width=435&lines=Ciencia+al+servicio+de+la+naci%C3%B3n. alt="Typing SVG" />
   
   <br>
   
