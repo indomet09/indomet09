@@ -65,17 +65,6 @@ Utilizamos herramientas robustas para garantizar precisión y velocidad en situa
 
 ---
 
-## 🚀 Proyectos Clave
-
-A continuación, una lista de nuestros repositorios públicos más relevantes.
-
-| Repositorio | Tipo | Estado | Descripción |
-| :--- | :---: | :---: | :--- |
-| **`INDOMET-Web-App`** | 🌐 Web | ![Active](https://img.shields.io/badge/Activo-brightgreen?style=flat-square) | Portal principal de visualización de datos climáticos. |
-| **`INDOMET-API-Core`** | 📡 Backend | ![Beta](https://img.shields.io/badge/Beta-orange?style=flat-square) | API RESTful para consumo de estaciones meteorológicas. |
-| **`INDOMET-Reportes`** | 📄 Utils | ![Stable](https://img.shields.io/badge/Estable-blue?style=flat-square) | Generador automático de boletines PDF oficiales. |
-
-> *Para acceder al código, navega a la lista de repositorios de la organización.*
 
 ---
 
