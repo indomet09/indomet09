@@ -1,3 +1,6 @@
+<!-- ENCABEZADO COMPACTO -->
+<div align="center">
+
   <p>
     <a href="https://indomet.gob.do/">
       <img src="https://img.shields.io/badge/Sitio_Web-INDOMET.gob.do-005EB8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
